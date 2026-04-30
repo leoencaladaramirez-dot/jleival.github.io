@@ -58,7 +58,7 @@ Commit realizado en el repositorio forkeado de Adolfo:
 ![Commit 2](./assets/img-2/commit-2.png)
 
 ---
-
+## 🛠️ Tecnologías utilizadas
 - HTML5  
 - CSS3  
 - Bootstrap 5.3  
