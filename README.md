@@ -10,7 +10,33 @@ Este proyecto consiste en el desarrollo de un Curriculum Vitae Web profesional j
 🔗 Ver Portafolio:
 👉 https://jleival.github.io/portafolio.html
 
-## 🛠️ Tecnologías utilizadas
+# 🤝 Colaboración en Proyectos
+
+Durante el desarrollo de este desafío, se realizaron contribuciones en repositorios de compañeros como parte del trabajo colaborativo en GitHub.
+
+---
+
+## 👤 Colaborador
+
+- Iván
+
+---
+
+## 📸 Forks realizados
+
+Fork realizado al repositorio del compañero Iván:
+
+![Fork 1](./assets/img-2/fork.png)
+
+---
+
+## 📸 Commits realizados
+
+Commit realizado en el repositorio forkeado de Iván:
+
+![Commit 2](./assets/img-2/commit.png)
+
+---
 
 - HTML5  
 - CSS3  
