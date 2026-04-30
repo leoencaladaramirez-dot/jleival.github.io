@@ -37,6 +37,27 @@ Commit realizado en el repositorio forkeado de Iván:
 ![Commit 2](./assets/img-2/commit.png)
 
 ---
+# 👤 Colaborador
+
+- Adolfo
+
+---
+
+## 📸 Forks realizados
+
+Fork realizado al repositorio del compañero Adolfo:
+
+![Fork 1](./assets/img-2/fork-2.png)
+
+---
+
+## 📸 Commits realizados
+
+Commit realizado en el repositorio forkeado de Adolfo:
+
+![Commit 2](./assets/img-2/commit-2.png)
+
+---
 
 - HTML5  
 - CSS3  
