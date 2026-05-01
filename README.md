@@ -57,6 +57,16 @@ Commit realizado en el repositorio forkeado de Adolfo:
 
 ![Commit 2](./assets/img-2/commit-2.png)
 
+## 📸 Vista previa
+
+### 💼 Curriculum Vitae
+
+![CV Preview](./assets/img/cv.png)
+
+### 🧑‍💻 Portafolio
+
+![Portafolio Preview](./assets/img/portafolio.png)
+
 ## 🚀 Cómo clonar el repositorio
 
 Para obtener una copia local de este proyecto en tu equipo, sigue estos pasos:
