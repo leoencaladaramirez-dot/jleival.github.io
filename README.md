@@ -57,6 +57,16 @@ Commit realizado en el repositorio forkeado de Adolfo:
 
 ![Commit 2](./assets/img-2/commit-2.png)
 
+## 🚀 Cómo clonar el repositorio
+
+Para obtener una copia local de este proyecto en tu equipo, sigue estos pasos:
+
+```bash
+git clone https://github.com/jleival/jleival.github.io.git
+cd jleival.github.io
+code .
+```
+
 ---
 ## 🛠️ Tecnologías utilizadas
 - HTML5  
