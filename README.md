@@ -103,6 +103,13 @@ code .
 - ✔ Fork de compañeros  
 - ✔ Commits realizados  
 
+## 🧠 Aprendizajes
+
+- Estructuración de proyectos frontend
+- Uso de Bootstrap para diseño responsive
+- Publicación de sitios con GitHub Pages
+- Trabajo colaborativo mediante forks y commits
+
 ## 📞 Contacto
 
 - GitHub: [jleival](https://github.com/jleival)  
